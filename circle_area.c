@@ -1,3 +1,6 @@
+/*Write a C program to calculate the area of a circle using the pow() function.*/
+
+
 #include<stdio.h>
 #include<math.h>
 
