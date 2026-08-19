@@ -14,6 +14,6 @@ int main()
     
     area = M_PI*pow(r,2);
     
-    printf("Area of a circle with a radius of %d cm: %.2f cm", r,area);
+    printf("Area of a circle with a radius of %d cm: %.2f ", r,area);
     return 0;
 }
